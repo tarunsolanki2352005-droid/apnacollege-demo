@@ -1,2 +1,4 @@
 # apnacollege-demo
-This is my first GIT repository
+This is my first Git Repository
+<br>
+Author - TARUN SOLANKI
